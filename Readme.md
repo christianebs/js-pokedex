@@ -21,8 +21,8 @@ Este projeto faz parte da trilha do bootcamp **Potência Tech Angular Developer 
 
 ## 🔗 Links
 
-[Digital Innovation One](https://www.dio.me/)
-[Pokeapi](https://pokeapi.co/)
-[Repositório base do projeto](https://github.com/digitalinnovationone/js-developer-pokedex)
+- [Digital Innovation One](https://www.dio.me/)
+- [Pokeapi](https://pokeapi.co/)
+- [Repositório base do projeto](https://github.com/digitalinnovationone/js-developer-pokedex)
 
 👩‍💻 Christiane Barbosa
