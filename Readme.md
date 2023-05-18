@@ -25,4 +25,4 @@ Este projeto faz parte da trilha do bootcamp **Potência Tech Angular Developer 
 - [Pokeapi](https://pokeapi.co/)
 - [Repositório base do projeto](https://github.com/digitalinnovationone/js-developer-pokedex)
 
-## 👩‍💻 Christiane Barbosa
+## 👩‍💻 [Christiane Barbosa](https://christianebs.github.io/curriculo/)
