@@ -11,9 +11,9 @@ Este projeto é uma **Pokedex** que exibe todos os Pokemons da primeira geraçã
 
 ## 🎨 Layout
 
-[Clique aqui](https://christianebs.github.io/pokedex/) ou na imagem para abrir o link.
+[Clique aqui](https://christianebs.github.io/pokedex/) para abrir o link.
 
-[https://christianebs.github.io/pokedex/](![pokedex](https://github.com/christianebs/pokedex/assets/108686840/482f5a3f-3eb8-4722-93c8-1f7af1b93e54)
+(![pokedex](https://github.com/christianebs/pokedex/assets/108686840/482f5a3f-3eb8-4722-93c8-1f7af1b93e54)
 )
 
 ## ℹ️ Informações
