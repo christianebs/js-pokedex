@@ -15,7 +15,7 @@ Este projeto é uma **Pokedex** que exibe todos os Pokemons da primeira geraçã
 
 ![pokedex](https://github.com/christianebs/pokedex/assets/108686840/482f5a3f-3eb8-4722-93c8-1f7af1b93e54)
 
-## ℹ️ Informações
+<h2><img width="20px" src="https://github.com/christianebs/christianebs/assets/108686840/5c7bf7c9-1183-43a0-9b86-49812dad39fc"> Informações </h2>
 
 Este projeto faz parte da trilha do bootcamp **Potência Tech Angular Developer - Powered by iFood** da Digital Innovation One.
 
