@@ -4,13 +4,11 @@ Este projeto é uma **Pokedex** que exibe todos os Pokemons da primeira geraçã
 
 <h2><img width="20px" src="https://github.com/christianebs/christianebs/assets/108686840/c3873651-a26c-4982-8a1f-61306770030e"> Tecnologias </h2>
 
-HTML | CSS | JavaScript | Git | GitHub
-
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=CC6699"> | 
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=CC6699"> | 
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=CC6699"> | 
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=CC6699"> | 
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=CC6699">
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=CC6699">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=CC6699">
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=CC6699">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=CC6699">
 </p>
 
