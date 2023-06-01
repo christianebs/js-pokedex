@@ -6,7 +6,7 @@ Este projeto é uma **Pokedex** que exibe todos os Pokemons da primeira geraçã
 
 HTML | CSS | JavaScript | Git | GitHub
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=CC6699"> | 
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=CC6699"> | 
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=CC6699"> | 
